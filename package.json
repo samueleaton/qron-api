@@ -1,0 +1,14 @@
+{
+  "name": "qron-api",
+  "author": "Sam Eaton",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "scripts": {
+    "babel": "babel src/scripts --out-dir ./lib"
+  },
+  "devDependencies": {
+  }
+}
